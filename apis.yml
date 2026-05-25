@@ -1,0 +1,103 @@
+aid: psiquantum
+name: PsiQuantum
+description: >-
+  PsiQuantum is a Palo Alto, California photonic quantum computing company
+  founded in 2016 by Jeremy O'Brien, Terry Rudolph, Pete Shadbolt, and Mark
+  Thompson, building utility-scale, fault-tolerant quantum computers based on
+  single-photon qubits at telecom wavelength. Its Omega chipset — a silicon
+  photonic system integrating on-chip single-photon sources, superconducting
+  nanowire single-photon detectors, barium-titanate optical switches, and
+  low-loss fiber couplers — is manufactured on 300mm wafers at GlobalFoundries'
+  flagship fab in Malta, NY, leveraging mature semiconductor processes rather
+  than exotic cryogenic fabrication. The company is constructing two utility-
+  scale, million-qubit, fault-tolerant quantum computing sites: one at Moreton
+  Bay, Queensland, Australia (in partnership with the Australian and
+  Queensland governments) and one at the Illinois Quantum and Microelectronics
+  Park in Chicago, Illinois (with additional R&D at PsiLabs in Daresbury, UK
+  and assembly at PsiFactory in Milpitas, CA). PsiQuantum exposes a developer
+  surface aimed at fault-tolerant quantum algorithm researchers: Construct, an
+  enterprise platform for FTQC algorithm development, resource analysis, and
+  training; Circuit Designer, a free web tool for prototyping and visualizing
+  fault-tolerant quantum circuits; Circuit Hub, a shared library of `.circuit`
+  files; and two open-source Python projects on GitHub — Bartiq, a symbolic
+  quantum resource estimator that compiles subroutine-level costs to global
+  T-gate, Toffoli, qubit, and circuit-volume estimates, and QREF, an open
+  JSON-Schema-based format for representing quantum algorithms as hierarchical
+  DAGs with a Pydantic validation library and a `qref-render` visualization
+  tool. NVIDIA's CUDA-Q is integrated into Construct for accelerated
+  simulation. PsiQuantum does not currently publish a commercial cloud-access
+  REST API, OpenAPI specification, or a general-purpose quantum-execution SDK
+  comparable to those of gate-model quantum cloud providers — its public
+  developer artifacts are confined to FTQC resource-estimation tooling and
+  algorithm-design surfaces — and there is no public pricing or self-serve
+  tier for the underlying quantum hardware.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Quantum Computing
+  - Photonic Quantum Computing
+  - Fault Tolerant Quantum Computing
+  - FTQC
+  - Single Photon Qubits
+  - Silicon Photonics
+  - Quantum Resource Estimation
+  - Quantum Algorithms
+  - Quantum Software
+  - Omega Chipset
+  - Construct
+  - Circuit Designer
+  - Bartiq
+  - QREF
+  - Semiconductor
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/psiquantum/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.psiquantum.com
+  - type: About
+    url: https://www.psiquantum.com/about
+  - type: Technology
+    url: https://www.psiquantum.com/technology
+  - type: Research
+    url: https://www.psiquantum.com/research
+  - type: Applications
+    url: https://www.psiquantum.com/applications
+  - type: Software
+    url: https://www.psiquantum.com/psiquantum-software
+  - type: CircuitDesigner
+    url: https://circuits.psiquantum.com
+  - type: Bartiq
+    url: https://github.com/PsiQ/bartiq
+  - type: BartiqDocs
+    url: https://psiq.github.io/bartiq/
+  - type: QREF
+    url: https://github.com/PsiQ/qref
+  - type: QREFDocs
+    url: https://psiq.github.io/qref/
+  - type: CircuitHub
+    url: https://github.com/PsiQ/circuit-hub
+  - type: GitHub
+    url: https://github.com/PsiQ
+  - type: News
+    url: https://www.psiquantum.com/news
+  - type: PressMaterials
+    url: https://www.psiquantum.com/press-materials
+  - type: Careers
+    url: https://www.psiquantum.com/careers
+  - type: Contact
+    url: https://www.psiquantum.com/contact-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/psiquantum
+  - type: Twitter
+    url: https://twitter.com/PsiQuantum
+  - type: YouTube
+    url: https://www.youtube.com/@psiquantum
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
