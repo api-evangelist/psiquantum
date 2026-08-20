@@ -49,6 +49,23 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/psiquantum
 tags:
   - Quantum Computing
   - Photonic Quantum Computing
+  - Fault-Tolerant Quantum Computing
+  - FTQC
+  - Single Photon Qubits
+  - Silicon Photonics
+  - Quantum Resource Estimation
+  - Quantum Algorithms
+  - Quantum Software
+  - Omega Chipset
+  - Construct
+  - Circuit Designer
+  - Bartiq
+  - QREF
+  - Semiconductors
+  - Hardware
+tags_raw:
+  - Quantum Computing
+  - Photonic Quantum Computing
   - Fault Tolerant Quantum Computing
   - FTQC
   - Single Photon Qubits
