@@ -60,7 +60,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/psiquantum
 tags:
   - Quantum Computing
   - Photonic Quantum Computing
-  - Fault Tolerant Quantum Computing
+  - Fault-Tolerant Quantum Computing
   - FTQC
   - Single Photon Qubits
   - Silicon Photonics
@@ -72,7 +72,7 @@ tags:
   - Circuit Designer
   - Bartiq
   - QREF
-  - Semiconductor
+  - Semiconductors
   - Hardware
 tags_raw:
   - Quantum Computing
